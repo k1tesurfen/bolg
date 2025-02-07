@@ -51,7 +51,9 @@ function App() {
 
   return (
     <main className="container">
-      <h1>WRITE2HOSTS</h1>
+      <h1>
+        WRITE<span>2</span>HOSTS
+      </h1>
 
       <div className="text">
         <p>
